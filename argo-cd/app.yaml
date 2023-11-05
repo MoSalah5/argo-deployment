@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/MoSalah5/argo-deployment.git
     targetRevision: HEAD
-    path: argo/test-app
+    path: test-app
     directory:
       recurse: true
   destination:
